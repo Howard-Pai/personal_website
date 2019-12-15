@@ -1,0 +1,42 @@
+<html>
+<head>
+<style type="text/css">
+		em{
+			font-size: bold;
+		}
+		h4{
+			text-align: right;
+		}
+		img{
+			float: top;
+			float: right;
+			width: 40%;
+		}
+		#title{
+			color:white;
+			background-color:pink;
+			padding: 10px;
+			margin-left: 20px;
+			font-size: 30pt;
+		}
+		.detail{
+			color: brown; 
+			text-decoration-line: underline;
+		}
+		.space{
+			margin-left: 40px;
+		}
+		.moredetail{
+			color: olivedrab;
+		}
+		h1{
+			color: navy; 
+			text-align: center;
+		}
+		body{
+			background-color:lightblue;
+		}
+
+	</style>
+</head>
+<html>
